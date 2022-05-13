@@ -6,12 +6,10 @@
 
 Linux
 
-Windows
-
 ```bash
 cd
 ```
-
+Windows
 ```bash
 cd
 ```
@@ -23,7 +21,7 @@ Linux
 ```bash
 cd ../
 ```
-
+Windows
 ```bash
 cd ..
 ```
@@ -32,11 +30,10 @@ cd ..
 
 Linux
 
-Windows
-
 ```bash
 ls
 ```
+Windows
 
 ```bash
 dir
@@ -46,11 +43,10 @@ dir
 
 Linux
 
-Windows
-
 ```bash
 mkdir nome_da_pasta
 ```
+Windows
 
 ```bash
 mkdir nome_da_pasta
@@ -60,12 +56,10 @@ mkdir nome_da_pasta
 
 Linux
 
-Windows
-
 ```bash
 echo hello > hello.txt
 ```
-
+Windows
 ```bash
 echo hello > hello.txt
 ```
@@ -77,7 +71,7 @@ Linux
 ```bash
 rm -rf
 ```
-
+Windows
 ```bash
 rmdir nome_do_arquivo /s /q
 ```
@@ -88,12 +82,10 @@ Obs: temos no Windows a opção del, porem ela somente apaga o conteúdo da past
 
 Linux
 
-Windows
-
 ```bash
 clear
 ```
-
+Windows
 ```bash
 cls
 ```
