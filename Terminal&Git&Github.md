@@ -1,4 +1,4 @@
-# Terminal & Git & Github
+# Terminal & Git & Github 🧭
 
 ## Comandos úteis no terminal 🧑‍💻
 
