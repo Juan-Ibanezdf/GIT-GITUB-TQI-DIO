@@ -124,7 +124,7 @@ git --version
 
 Antes de tudo temos que ir até a pasta a qual queremos iniciar o git no terminal, então já na pasta podemos usar os seguintes comandos:
 
-1. Inicializar o git
+1. Inicializar o git no repositório
 
 ```bash
 git init 
@@ -135,6 +135,7 @@ git init
 ```bash
 ls -a
 ```
+### Configurar o git
 
 1. Para configurar o git usamos os seguintes códigos:
 
@@ -147,7 +148,7 @@ Obs: Use o seu e-mail do github
 1. Para configurar o nome de usário basta colocar o seguinte código:
 
 ```bash
-git config --global user.nickname seu_nome_de_usuario
+git config --global user.name seu_nome_de_usuario
 ```
 
 Obs: Use o seu nome de usuário do github, para facilitar a integração do git e github posterioremente.
